@@ -1,4 +1,4 @@
-// welcome to script js code:: created by dhananjay
+// my code
 Shery.imageEffect("#back", {
     style: 4,
     config: {
