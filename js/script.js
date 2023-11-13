@@ -1,4 +1,4 @@
-// my code
+//writen by dhananjay
 Shery.imageEffect("#back", {
     style: 4,
     config: {
